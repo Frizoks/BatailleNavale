@@ -26,19 +26,27 @@ Une fois le la **Bataille Navale** lancez, vous arrivez donc sur la fenêtre d'a
 - Partie Solo (où vous affronterez une IA)
 
     - Choisissez maintenant une difficulté entre les 4 suivantes :
-        - Facile : L'IA prend des décisions aléatoires.
-        - Moyen : L'IA prend des décisions basées sur une logique simple.
-        - Difficile : L'IA prend des décisions stratégiques pour maximiser ses chances de gagner.
-        - Impossible : L'IA connaît le plateau adverse, et aléatoirment, trouve automatiquement la positions des navires.
+        - **Facile** : L'IA prend des décisions aléatoires.
+        - **Moyen** : L'IA prend des décisions basées sur une logique simple.
+        - **Difficile** : L'IA prend des décisions stratégiques pour maximiser ses chances de gagner.
+        - **Impossible** : L'IA connaît le plateau adverse, et aléatoirment, trouve automatiquement la positions des navires.
      
     - Vous devez maintenant placez vos navires, vous avez ici aussi, deux choix :
-        - Manuellement : En selectionnant un navire qui n'est pas déjà placer, ensuite les cases où vous voulez le placer, et finalement en appuyant sur le bouton "Valider" qui vérifiera si votre navire à                            le droit d'être placer ici, il faut placer les navires un par un (Vous ne pouvez pas placer 2 bateaux différents sur des cases adjacentes, voir les règles de la Bataille navale :                              https://fr.wikipedia.org/wiki/Bataille_navale_(jeu))
-        - Automatiquement : en appuyant simplement sur le bouton "Auto"
+        - Manuellement : En selectionnant un navire qui n'est pas déjà placer, ensuite les cases où vous voulez le placer sur votre plateau (celui de gauche), et finalement en appuyant sur le bouton                    **Valider** qui vérifiera si votre navire à le droit d'être placer ici, il faut placer les navires un par un (Vous ne pouvez pas placer 2 bateaux différents sur des cases adjacentes, voir les                 règles de la Bataille navale : https://fr.wikipedia.org/wiki/Bataille_navale_(jeu))
+        - Automatiquement : en appuyant simplement sur le bouton **Auto**
 
   
 - Partie Multijoueur (pour cela il faut être deux, connécté sur le même réseau internet) :
 
-  
+    - Un premier joueur doit **Créer une partie** (serveur), et attendre patiemment que quelqu'un rejoigne la partie en lui donnant l'adresse IP affiché en haut de la fenêtre.
+ 
+    - Un deuxième joueur doit maintenant **Rejoindre une partie** (client), et renseigner l'adresse IP du serveur (celui qui à creer la partie), et ensuite cliquez sur **Validez**
+ 
+    - Si tout se passe bien, vous devriez maintenant être connécté, il vous suffit de placez vos navires (voir la section corespondante sur la partie solo)
+
+- Une fois vos navires placez (et ceux de l'adversaire aussi), vous allez pouvoir commencez à jouez :
+    
+    - Le plateau de gauche 
 
 
 ## Auteurs
