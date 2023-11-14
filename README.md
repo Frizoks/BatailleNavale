@@ -44,9 +44,15 @@ Une fois le la **Bataille Navale** lancez, vous arrivez donc sur la fenêtre d'a
  
     - Si tout se passe bien, vous devriez maintenant être connécté, il vous suffit de placez vos navires (voir la section corespondante sur la partie solo)
 
+
 - Une fois vos navires placez (et ceux de l'adversaire aussi), vous allez pouvoir commencez à jouez :
     
-    - Le plateau de gauche 
+    - Le plateau de gauche est le votre, vous verrez les coups que votre adversaire à effectuez, en dessous vous avez aussi le résultat de ses 5 derniers coups, et encore en dessous, le nombre de navires que votre adversaire à coulé et sa précision (coups touchant un navire / coups tirés)
+    - Le plateau de droite est celui de votre adversaire, c'est ici que vous devez cliqué pour jouez, quand c'est à votre tour biensur. En dessous vous avez les coordonnées de vos 5 derniers coups, ainsi que le nombre de navires que vous avez coulé et votre précision
+    - La partie se fini quand un des deux joueur a coulé tout les navires de son adversaire si vous avez perdu, les navires restant vont s'afficher. Vous pourrez ensuite retourner à l'acceuil, ou tout simplement fermer le message de fin pour regarder le rendu de votre partie (vous pouvez simplement décalez le message de fin sur le côté, regarder la fin de partie et relancer ensuite). Si vous avez cliquez sur **Ok** et que vous voulez relancer une partie, vous devez simplement réexecuter le fichier **BatailleNavale.jar**.
+ 
+
+- Cette Bataille Navale est aussi composé de différents sons, et notament une musique d'ascenseur dans les menus, afin de la désactiver ou de la réactiver, vous avec un bouton **Musique ON/OFF** sur la Fenêtre d'acceuil.
 
 
 ## Auteurs
