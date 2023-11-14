@@ -29,7 +29,7 @@ Une fois le la **Bataille Navale** lancez, vous arrivez donc sur la fenêtre d'a
         - **Facile** : L'IA prend des décisions aléatoires.
         - **Moyen** : L'IA prend des décisions basées sur une logique simple.
         - **Difficile** : L'IA prend des décisions stratégiques pour maximiser ses chances de gagner.
-        - **Impossible** : L'IA connaît le plateau adverse, et aléatoirment, trouve automatiquement la positions des navires.
+        - **Impossible** : L'IA connaît le plateau adverse, et aléatoirment, trouve automatiquement la position des navires.
      
     - Vous devez maintenant placez vos navires, vous avez ici aussi, deux choix :
         - Manuellement : En selectionnant un navire qui n'est pas déjà placer, ensuite les cases où vous voulez le placer sur votre plateau (celui de gauche), et finalement en appuyant sur le bouton                    **Valider** qui vérifiera si votre navire à le droit d'être placer ici, il faut placer les navires un par un (Vous ne pouvez pas placer 2 bateaux différents sur des cases adjacentes, voir les                 règles de la Bataille navale : https://fr.wikipedia.org/wiki/Bataille_navale_(jeu))
