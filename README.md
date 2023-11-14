@@ -14,14 +14,14 @@ Voici les étapes afin de pouvoir jouez à cette **Bataille Navale**
 3. Si vous avez les deux fichiers, il faut impérativement qu'il se trouve dans le même dossier (avec la même racine).
 4. Afin de jouer a la **Bataille Navale**, il vous suffit maintenant d'exécuter le fichier "BatailleNavale.jar" pour cela :
     - Si vous êtes sur Windows, vous devez simplement faire un double-clic sur le fichier Jar
-    - Si vous êtes sur Linux (cela marche également sur Windows), dans un terminal, dans le repertoire courant où se situe votre fichier Jar, tapez la commande suivante  : java -jar BatailleNavale.jar
+    - Si vous êtes sur Linux (cela marche également sur Windows), dans un terminal, dans le répertoire courant où se situe votre fichier Jar, tapez la commande suivante  : java -jar BatailleNavale.jar
 6. Vous avez maintenant lancé le jeu, a vous de jouer !!!
 
 NB : Vous pouvez aussi télécharger la documentation sur Github, et ouvrir index.html dans un navigateur internet, afin de découvrir le code de la **Bataille Navale**.
 
 ## Utilisation
 
-Une fois la **Bataille Navale** lancez, vous arrivez donc sur la fenêtre d'accueil, vous avez maintenant le choix entre 2 modes de jeux :
+Une fois la **Bataille Navale** lancée, vous arrivez donc sur la fenêtre d'accueil, vous avez maintenant le choix entre 2 modes de jeux :
 
 - **Partie Solo** (où vous affronterez une IA)
 
@@ -36,24 +36,24 @@ Une fois la **Bataille Navale** lancez, vous arrivez donc sur la fenêtre d'accu
         - **Automatiquement** : en appuyant simplement sur le bouton **Auto**
 
   
-- **Partie Multijoueur** (pour cela il faut être deux, connecté sur le même réseau internet) :
+- **Partie Multijoueur** (pour cela, il faut être deux, connecté sur le même réseau internet) :
 
     - Un premier joueur doit **Créer une partie** (serveur), et attendre patiemment que quelqu'un rejoigne la partie en lui donnant l'adresse IP affiché en haut de la fenêtre.
  
-    - Un deuxième joueur doit maintenant **Rejoindre une partie** (client), et renseigner l'adresse IP du serveur (celui qui a créé la partie), et ensuite cliquez sur **Validez**
+    - Un deuxième joueur doit maintenant **Rejoindre une partie** (client), et renseigner l'adresse IP du serveur (celui qui a créé la partie), et ensuite cliquez sur **Validez**.
  
-    - Si tout se passe bien, vous devez maintenant être connécté, il vous suffit de placez vos navires (voir la section corespondante sur la partie solo)
+    - Si tout se passe bien, vous devez maintenant être connécté, il vous suffit de placez vos navires (voir la section correspondante sur la partie solo).
 
 
-- Une fois vos navires placés (et ceux de l'adversaire aussi), vous allez pouvoir commencez à **jouez** :
+- Une fois vos navires placés (et ceux de l'adversaire aussi), vous allez pouvoir commencer à **jouer** :
     
-    - Le **plateau de gauche** est le vôtre, vous verrez les coups que votre adversaire à effectuez, en dessous, vous avez aussi le résultat de ses 5 derniers coups, et encore en dessous, le nombre de navires que votre adversaire à coulé et sa précision (coups touchant un navire / coups tirés).
+    - Le **plateau de gauche** est le vôtre, vous verrez les coups que votre adversaire à effectuer, en dessous, vous avez aussi le résultat de ses 5 derniers coups, et encore en dessous, le nombre de navires que votre adversaire à coulé et sa précision (coups touchant un navire / coups tirés).
     - Le **plateau de droite** est celui de votre adversaire, c'est ici que vous devez cliquer pour jouer, quand c'est à votre tour, bien sûr. En dessous, vous avez les coordonnées de vos 5 derniers coups, ainsi que le nombre de navires que vous avez coulé et votre précision.
-    - La partie se finit quand un des deux joueurs a coulé tous les navires de son adversaire si vous avez perdu, les navires restant vont s'afficher. Vous pourrez ensuite retourner à l'accueil, ou tout simplement fermer le message de fin pour regarder le rendu de votre partie (vous pouvez simplement décalez le message de fin sur le côté, regarder la fin de partie et relancer ensuite). Si vous avez cliqué sur **Ok** et que vous voulez relancer une partie, vous devez simplement réexecuter le fichier **BatailleNavale.jar**.
+    - La partie se finit quand un des deux joueurs a coulé tous les navires de son adversaire si vous avez perdu, les navires restants vont s'afficher. Vous pourrez ensuite retourner à l'accueil, ou tout simplement fermer le message de fin pour regarder le rendu de votre partie (vous pouvez simplement décaler le message de fin sur le côté, regarder la fin de partie et relancer ensuite). Si vous avez cliqué sur **Ok** et que vous voulez relancer une partie, vous devez simplement re-éxecuter le fichier **BatailleNavale.jar**.
     - Vous pouvez retrouver les règles du jeu de la **Bataille Navale** sur la page suivante : https://fr.wikipedia.org/wiki/Bataille_navale_(jeu)
  
 
-- Cette Bataille Navale est aussi composée de différents sons, et notament une musique d'ascenseur dans les menus, afin de la désactiver ou de la réactiver, vous avec un bouton **Musique ON/OFF** sur la Fenêtre d'acceuil.
+- Cette Bataille Navale est aussi composée de différents sons, et notamment une musique d'ascenseur dans les menus, afin de la désactiver ou de la réactiver, vous avec un bouton **Musique ON/OFF** sur la Fenêtre d'accueil.
 
 
 ## Auteurs
