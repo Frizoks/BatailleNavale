@@ -13,7 +13,7 @@ Voici les etapes afin de pouvoir jouez à cette **Bataille Navale**
 3. Si vous avez les deux fichier, il faut impérativement qu'il se trouve dans le même dossier (avec la même racine)
 4. Afin de jouez a la **Bataille Navale**, il vous suffit maintenant d'executer le fichier "BatailleNavale.jar" pour cela :
     - Si vous êtes sur Windows, vous devez simplement faire un double-clic sur le fichier Jar
-    - Si vous êtes sur Linux (cela marche également sur Windows), il vous suffit d'executer la commande suivante dans un terminal : java -jar BatailleNavale.jar
+    - Si vous êtes sur Linux (cela marche également sur Windows), il vous suffit d'executer dans un terminal, dans le repertoire courant où se situe votre fichier Jar, la commande suivante  : java -jar BatailleNavale.jar
 6. Vous avez maintenant lancez le jeu, a vous de jouez !!!
 
 NB : Vous pouvez aussi téléchargez la documentation sur Github, et ouvrir index.html dans un navigateur internet, afin de découvrir le code de la **Bataille Navale**
