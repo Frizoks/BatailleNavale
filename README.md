@@ -11,7 +11,7 @@ Voici les etapes afin de pouvoir jouez à cette **Bataille Navale**
 1. Rendez-vous sur la page Github de ce projet : https://github.com/Frizoks/BatailleNavale
 2. Telecharger principalement le fichier "BatailleNavale.jar", et optionnellement le fichier "dataBN" afin de jouez les sons dans le jeu.
 3. Si vous avez les deux fichier, il faut impérativement qu'il se trouve dans le même dossier (avec la même racine)
-4. Afin de jouez a la **Bataille Navale**, il vous suffit maintenant d'executer le fichier "BatailleNavale.jar" pour cela :
+4. Afin de jouez a la **Bataille Navale**, il vous suffit maintenant d'executer le fichier "BatailleNavale.jar" pour cela :\n
     o Si vous êtes sur Windows, vous devez simplement faire un double-clic sur le fichier Jar
     o Si vous êtes sur Linux (cela marche également sur Windows), il vous suffit d'executer la commande suivante dans un terminal : java -jar BatailleNavale.jar
 5. Vous avez maintenant lancez le jeu, a vous de jouez !!!
