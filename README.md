@@ -2,7 +2,7 @@
 
 ## Description
 
-Un jeu simple de Bataille Navale implémenté en Java. Le jeu permet à deux joueurs de s'affronter sur une grille virtuelle et de placer leurs navires, puis de s'attaquer mutuellement en essayant de couler les navires adverses.
+Un jeu simple de Bataille Navale implémenté en Java. Le jeu permet à deux joueurs en local de s'affronter sur une grille virtuelle et de placer leurs navires, puis de s'attaquer mutuellement en essayant de couler les navires adverses.
 
 un mode Solo est aussi implémenter, où l'on affronte une IA avec 4 niveaux de difficultés.
 
@@ -21,10 +21,25 @@ NB : Vous pouvez aussi téléchargez la documentation sur Github, et ouvrir inde
 
 ## Utilisation
 
-- Exécutez le programme et suivez les instructions à l'écran.
-- Placez vos navires en spécifiant les coordonnées.
-- Attaquez l'adversaire à tour de rôle.
-- Le jeu se poursuit jusqu'à ce qu'un joueur ait coulé tous les navires de l'autre.
+Une fois le la **Bataille Navale** lancez, vous arrivez donc sur la fenêtre d'acceuil, vous avez maintenant le choix entre 2 modes de jeux :
+
+- Partie Solo (où vous affronterez une IA)
+
+    - Choisissez maintenant une difficulté entre les 4 suivantes :
+        - Facile : L'IA prend des décisions aléatoires.
+        - Moyen : L'IA prend des décisions basées sur une logique simple.
+        - Difficile : L'IA prend des décisions stratégiques pour maximiser ses chances de gagner.
+        - Impossible : L'IA connaît le plateau adverse, et aléatoirment, trouve automatiquement la positions des navires.
+     
+    - Vous devez maintenant placez vos navires, vous avez ici aussi, deux choix :
+        - Manuellement : En selectionnant un navire qui n'est pas déjà placer, ensuite les cases où vous voulez le placer, et finalement en appuyant sur le bouton "Valider" qui vérifiera si votre navire à                            le droit d'être placer ici, il faut placer les navires un par un (Vous ne pouvez pas placer 2 bateaux différents sur des cases adjacentes, voir les règles de la Bataille navale :                              https://fr.wikipedia.org/wiki/Bataille_navale_(jeu))
+        - Automatiquement : en appuyant simplement sur le bouton "Auto"
+
+  
+- Partie Multijoueur (pour cela il faut être deux, connécté sur le même réseau internet) :
+
+  
+
 
 ## Auteurs
 
