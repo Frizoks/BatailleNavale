@@ -3,6 +3,7 @@
 ## Description
 
 Un jeu simple de Bataille Navale implémenté en Java. Le jeu permet à deux joueurs de s'affronter sur une grille virtuelle et de placer leurs navires, puis de s'attaquer mutuellement en essayant de couler les navires adverses.
+
 un mode Solo est aussi implémenter, où l'on affronte une IA avec 4 niveaux de difficultés.
 
 ## Installation
