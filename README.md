@@ -15,7 +15,7 @@ Voici les étapes afin de pouvoir jouez à cette **Bataille Navale**
 4. Afin de jouer a la **Bataille Navale**, il vous suffit maintenant d'exécuter le fichier "BatailleNavale.jar" pour cela :
     - Si vous êtes sur Windows, vous devez simplement faire un double-clic sur le fichier Jar
     - Si vous êtes sur Linux (cela marche également sur Windows), dans un terminal, dans le répertoire courant où se situe votre fichier Jar, tapez la commande suivante  : java -jar BatailleNavale.jar
-6. Vous avez maintenant lancé le jeu, a vous de jouer !!!
+6. Vous avez maintenant lancé le jeu, à vous de jouer !!!
 
 NB : Vous pouvez aussi télécharger la documentation sur Github, et ouvrir index.html dans un navigateur internet, afin de découvrir le code de la **Bataille Navale**.
 
@@ -42,7 +42,7 @@ Une fois la **Bataille Navale** lancée, vous arrivez donc sur la fenêtre d'acc
  
     - Un deuxième joueur doit maintenant **Rejoindre une partie** (client), et renseigner l'adresse IP du serveur (celui qui a créé la partie), et ensuite cliquez sur **Validez**.
  
-    - Si tout se passe bien, vous devez maintenant être connécté, il vous suffit de placez vos navires (voir la section correspondante sur la partie solo).
+    - Si tout se passe bien, vous devez maintenant être connecté, il vous suffit de placer vos navires (voir la section correspondante sur la partie solo).
 
 
 - Une fois vos navires placés (et ceux de l'adversaire aussi), vous allez pouvoir commencer à **jouer** :
