@@ -5,21 +5,18 @@
 Un jeu simple de Bataille Navale implémenté en Java. Le jeu permet à deux joueurs de s'affronter sur une grille virtuelle et de placer leurs navires, puis de s'attaquer mutuellement en essayant de couler les navires adverses.
 un mode Solo est aussi implémenter, où l'on affronte une IA avec 4 niveaux de difficultés.
 
-## Fonctionnalités
-
-- Placement de navires sur une grille virtuelle.
-- Tour par tour entre deux joueurs.
-- Attaque en spécifiant les coordonnées.
-- Affichage de la grille pour chaque joueur.
-- Détection de la fin du jeu et annonce du vainqueur.
-
 ## Installation
 
-1. Assurez-vous que vous avez Java installé sur votre machine.
-2. Clonez ce dépôt : `git clone https://github.com/votre-utilisateur/bataille-navale-java.git`
-3. Accédez au répertoire du projet : `cd bataille-navale-java`
-4. Compilez le programme : `javac Main.java`
-5. Exécutez le jeu : `java Main`
+Voici les etapes afin de pouvoir jouez à cette **Bataille Navale**
+1. Rendez-vous sur la page Github de ce projet : https://github.com/Frizoks/BatailleNavale
+2. Telecharger principalement le fichier "BatailleNavale.jar", et optionnellement le fichier "dataBN" afin de jouez les sons dans le jeu.
+3. Si vous avez les deux fichier, il faut impérativement qu'il se trouve dans le même dossier (avec la même racine)
+4. Afin de jouez a la **Bataille Navale**, il vous suffit maintenant d'executer le fichier "BatailleNavale.jar" pour cela :
+    o Si vous êtes sur Windows, vous devez simplement faire un double-clic sur le fichier Jar
+    o Si vous êtes sur Linux (cela marche également sur Windows), il vous suffit d'executer la commande suivante dans un terminal : java -jar BatailleNavale.jar
+5. Vous avez maintenant lancez le jeu, a vous de jouez !!!
+
+NB : Vous pouvez aussi téléchargez la documentation sur Github, et ouvrir index.html dans un navigateur internet, afin de découvrir le code de la **Bataille Navale**
 
 ## Utilisation
 
