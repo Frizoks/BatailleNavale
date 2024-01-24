@@ -10,12 +10,11 @@ Un mode Solo est aussi implémenté, où l'on affronte une IA avec 4 niveaux de 
 
 Voici les étapes afin de pouvoir jouez à cette **Bataille Navale**
 1. Rendez-vous sur la page Github de ce projet : https://github.com/Frizoks/BatailleNavale
-2. Télécharger principalement le fichier "BatailleNavale.jar", et optionnellement le fichier "dataBN.zip" afin de jouer les sons dans le jeu.
-3. Vous devez extraire le contenu du fichier "dataBN.zip", dans lequel il y a un dossier nommé "dataBN", que vous devez placer dans le même répertoire que "BatailleNavale.jar".
-5. Afin de jouer a la **Bataille Navale**, il vous suffit maintenant d'exécuter le fichier "BatailleNavale.jar" pour cela :
-    - Si vous êtes sur Windows, vous devez simplement faire un double-clic sur le fichier Jar
+2. Télécharger le fichier "BatailleNavale.jar".
+3. Afin de jouer a la **Bataille Navale**, il vous suffit maintenant d'exécuter le fichier "BatailleNavale.jar" pour cela :
+    - Si vous êtes sur Windows, vous pouvez simplement faire un double-clic sur le fichier Jar
     - Si vous êtes sur Linux (cela marche également sur Windows), dans un terminal, dans le répertoire courant où se situe votre fichier Jar, tapez la commande suivante  : java -jar BatailleNavale.jar
-6. Vous avez maintenant lancé le jeu, à vous de jouer !!!
+4. Vous avez maintenant lancé le jeu, à vous de jouer !!!
 
 NB : Vous pouvez aussi télécharger la documentation sur Github, et ouvrir index.html dans un navigateur internet, afin de découvrir le code de la **Bataille Navale**.
 
